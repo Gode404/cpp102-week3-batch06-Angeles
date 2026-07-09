@@ -1,0 +1,8 @@
+problem01_pseudocode: Basic Linear Problems
+
+START
+INPUT BOX
+INPUT Items
+PROCESS TOTAL = Box + Items
+DISPLAY TOTAL
+END

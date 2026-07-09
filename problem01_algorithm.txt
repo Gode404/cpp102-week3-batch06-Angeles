@@ -1,0 +1,8 @@
+problem01_algorithm: Basic Linear Problems
+
+Step 1: Start
+Step 2: Ask the user to enter the number of boxes. Set is as Box
+Step 3: Ask the user to enter the number of items per box. Set it as items
+Step 4: Compute the total = box + items
+Step 5: Display total
+Step 6: End
