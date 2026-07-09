@@ -1,0 +1,8 @@
+problem10_pseudocode: Decision Problems
+
+START
+INPUT Room number
+   DISPLAY "Even"
+OR
+   DISPLAY "Odd"
+END

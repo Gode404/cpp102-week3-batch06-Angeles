@@ -1,0 +1,12 @@
+problem05_pseudocode: Hardware Store Purchase Total
+
+START
+INPUT Price1
+INPUT Quantity1
+INPUT Price2
+INPUT Quantity2
+INPUT Price3
+INPUT Quantity3
+COMPUTE Total Cost = (Price1 * Quantity1) + (Price2 * Quantity2) + (Price3 * Quantity3)
+DISPLAY Result
+END

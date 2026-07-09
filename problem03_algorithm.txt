@@ -1,0 +1,8 @@
+problem03_algorithm: Prepaid Load Subscription
+
+Step 1: Start
+Step 2: Ask the user to enter the number of rate per day. Set it as Rate per day
+Step 3 : Ask the user to enter the number of days subscribe. Set it as Days subscribed
+Step 4: Compute Total Cost = Rate per day + Days suubscribed
+Step 5: Display Total Cost
+Step 6: End

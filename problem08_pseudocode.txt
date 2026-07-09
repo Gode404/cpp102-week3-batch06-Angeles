@@ -1,0 +1,9 @@
+problem08_pseudocode: Decision Problems
+
+START
+INPUT Violations
+IF VIOLATIONS IS 2 = 0
+     DISPLAY "Cleared"
+ELSE
+     DISPLAY "Not cleared"
+END

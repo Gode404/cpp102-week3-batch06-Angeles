@@ -1,0 +1,11 @@
+problem09_pseudocode: Decision Problems
+
+START
+INPUT Price change
+IF Price change is > 0
+    DISPLAY "Gain"
+OR < 0
+    DISPLAY "Less"
+OR 0
+    DISPLAY "Unchanged"
+END

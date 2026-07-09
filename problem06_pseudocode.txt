@@ -1,0 +1,8 @@
+problem06_pseudocode: Freelance Earnings Computation
+
+START 
+INPUT Hours worked
+INPUT Project Bonus
+COMPUTE Total Earnings = Hours worked + Project bonus
+DISPLAY Result
+END 

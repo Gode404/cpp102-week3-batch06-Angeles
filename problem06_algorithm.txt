@@ -1,0 +1,8 @@
+problem06_algorithm: Freelance Earnings Computation
+
+Step 1: Start
+Step 2: Ask the user to enter the hourly rate per hours worked. Set it as Hours worked
+Step 3: Ask the user to enter the fixed project completion bonus. Set it as Project bonus
+Step 4: Compute the Total Earnings = Hours worked + Project Bonus
+Step 5: Display the Result
+Step 6: End

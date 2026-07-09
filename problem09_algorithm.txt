@@ -1,0 +1,8 @@
+problem09_algorithm: Decision Problems
+
+Step 1: Start
+Step 2: Ask the user to enter the price change. Set it as Price change
+Step 3: If the Price change is greater than 0, display "Gain"
+Step 4: Or the Price change is less than 0, display "Loss"
+Step 5: Or if the Price change is exactly 0, display "Unchanged"
+Step 6: End

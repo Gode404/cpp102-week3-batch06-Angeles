@@ -1,0 +1,9 @@
+problem07_pseudocode: Final Course Grade Computation
+
+START 
+INPUT Average1
+INPUT Average2
+INPUT Average3
+COMPUTE Final Course Grade = Average1 + Average2 + Average3
+DISPLAY Result
+END

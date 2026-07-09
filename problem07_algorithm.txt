@@ -1,0 +1,9 @@
+problem07_algorithm: Final Course Grade Computation
+
+Step 1: Start
+Step 2: Ask the user to enter average of the midterm score. Set it as Average1
+Step 3: Ask the user to enter average of the final exam score. Set it as Average2
+Step 4: Ask the user to enter average of the course output score. Set it as Average3
+Step 5: Compute the Final Course Grade = Average1 + Average2 + Average3
+Step 6: Display the Result
+Step 7: End

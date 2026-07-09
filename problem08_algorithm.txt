@@ -1,0 +1,7 @@
+problem08_algorithm: Decision Problems
+
+Step 1: Start
+Step 2: Ask the user to enter the students number of violations. Set it as Violations
+Step 3: If the Violations is equal to 2 or less, display "Cleared" 
+Step 4: Else, Display "Not cleared" 
+Step 5: End

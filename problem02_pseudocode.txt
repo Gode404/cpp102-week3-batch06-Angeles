@@ -1,0 +1,8 @@
+problem02_pseudocode: Packed Garden Path
+
+START
+INPUT Radius
+INPUT Pi
+PROCESS CIRCUMFERENCE = Radius + Pi
+DISPLAY RESULT
+END

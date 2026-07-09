@@ -1,0 +1,9 @@
+problem04_pseudocode: Game Score Average
+
+START 
+INPUT Game1
+INPUT Game2
+INPUT Game3
+COMPUTE AVERAGE SCORE = Game1 + Game2 + Game3
+DISPLAY AVERAGE SCORE
+END

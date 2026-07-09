@@ -1,0 +1,8 @@
+problem02_algorithm: Packed Garden Path
+
+Step 1: Start
+Step 2: Ask the user to enter the radius. Set it as Radius
+Step 3: Ask the user to enter the value of pi. Set it as Pi
+Step 4: Compute the Circumference = Radius + Pi
+Step 5: Display Result
+Step 6: End 

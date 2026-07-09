@@ -1,0 +1,8 @@
+problem03_pseudocode: Prepaid Load Subscription
+
+START 
+INPUT Rate per day
+INPUT Days subscribed
+COMPUTE TOTAL COST = Rate per day + Days subscribed 
+DISPLAY TOTAL COST
+END
